@@ -1,0 +1,16 @@
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.Form1.resources
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.csproj.GenerateResource.cache
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.AssemblyInfoInputs.cache
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.AssemblyInfo.cs
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.csproj.CoreCompileInputs.cache
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\net8.0-windows\CsharpRestClient.exe
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\net8.0-windows\CsharpRestClient.deps.json
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\net8.0-windows\CsharpRestClient.runtimeconfig.json
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\net8.0-windows\CsharpRestClient.dll
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\bin\Debug\net8.0-windows\CsharpRestClient.pdb
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.dll
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\refint\CsharpRestClient.dll
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.pdb
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\CsharpRestClient.genruntimeconfig.cache
+C:\Users\leo.mahlangu\source\repos\CsharpRestClient\CsharpRestClient\obj\Debug\net8.0-windows\ref\CsharpRestClient.dll
